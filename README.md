@@ -1,3 +1,3 @@
 # Abneet's cooking-journal
 
-My first repository on GitHub
+A Journal for creating great food
