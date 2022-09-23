@@ -1,2 +1,3 @@
-# cooking-journal
-My first repository on GitHub 
+# Abneet's cooking-journal
+
+My first repository on GitHub
